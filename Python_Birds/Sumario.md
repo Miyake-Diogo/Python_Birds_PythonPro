@@ -26,13 +26,13 @@ Sumário com os links para os arquivos do curso Python Birds
 * [Função e PEP8](03_Modularizacao/funcao_pep8.py)
 * [Parâmetros de Função](03_Modularizacao/parametros_funcao.py)
 * [Parâmetros Variaveis](03_Modularizacao/parametros_variaveis.py)
-* [Módulo](03_Modularizacao/modulo.py)
+* [Módulo](03_Modularizacao/modulo_matematica/modulo.py)
 * [Debug](03_Modularizacao/debug.py)
-* [Import e __name__](03_Modularizacao/import_e_name.py)
+* [Import e __name__](03_Modularizacao/modulo_matematica/import_e_name.py)
 * [Pacote](03_Modularizacao/pacotes.py)
 * [Docstring e comentário](03_Modularizacao/docstring_comentarios.py)
 * [Contagem de caracteres com lista](03_Modularizacao/contagem_caracteres_listas.py)
-* [Contagem de caracteres com dicionarios](03_Modularizacao/contagem_caracteres_dict.py)
+* [Contagem de caracteres com dicionarios](03_Modularizacao/contagem_caracteres_dict_v1.py)
 * [Retrospectiva:Paradigma Procedural](03_Modularizacao/retrospectiva_paradigma_procedural.py)
 
 # Orientação a Objetos
